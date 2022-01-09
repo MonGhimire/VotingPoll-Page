@@ -137,7 +137,7 @@ main p {
 #addPeople:hover,
 #submit-Btn:hover {
   cursor: pointer;
-  background-color: rgb(219, 175, 155);
+
   color: black;
   font-size: medium;
 }
